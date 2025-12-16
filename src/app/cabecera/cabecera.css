@@ -2,14 +2,15 @@
     width: 40vw;
     height: 10vh;
     font-size: 2rem;
-    color: gray;
+    color: crimson;
     display: flex;
     flex-direction: column;
     margin-left: 1vw;
-
+    
 }
 
 #textoCards{
     width: 100%;
     height: 25%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
